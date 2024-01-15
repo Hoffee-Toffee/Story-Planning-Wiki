@@ -14,7 +14,7 @@
 - Will - Tuesday, Thursday, Weekends
 - Ming - February
 
-## Technologies to consider:
+## Technologies to consider
 - Next.js
 - Tailwind
 - PostgreSQL
