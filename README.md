@@ -17,8 +17,7 @@
 ## Technologies to consider
 - Next.js
 - Tailwind
-- PostgreSQL
-- Plannetscale(Knex for Database)
+- Plannetscale (cloud mysql database)
 - Vercel(For Deployment)
 
 ## Other Notes  
