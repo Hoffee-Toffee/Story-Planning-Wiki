@@ -18,9 +18,10 @@
 - Next.js
 - Tailwind
 - PostgreSQL
-- Plannetscale
+- Plannetscale(Knex for Database)
 - Vercel(For Deployment)
-  
+
+## Other Notes  
 * Old Version
 * Figma
 * Requests / Limitations
@@ -31,6 +32,4 @@
   * Licence
   * Kanban Board 
   * Documentation
-  * Database (Knex with PlanetScale)
-  * Deploy (Vercel)
 
