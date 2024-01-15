@@ -1,8 +1,28 @@
 # Story-Planning-Wiki
 
+## Roles
+- Product Owner - Tristan
+- Scrum facilitator - Arianne
+- Git Keeper - Anthony
+- Vibes Watcher - Will
+- Client/Privacy - Jared
+
+## Availability
+- Anthony - Anytime
+- Tristan - Anytime
+- Arianne - Tuesday, Wednesday, Friday
+- Will - Tuesday, Thursday, Weekends
+- Ming - February
+
+## Technologies to consider:
+- Next.js
+- Tailwind
+- PostgreSQL
+- Plannetscale
+- Vercel(For Deployment)
+  
 * Old Version
 * Figma
-* Roles
 * Requests / Limitations
 * Comms
 * Repo
@@ -14,27 +34,3 @@
   * Database (Knex with PlanetScale)
   * Deploy (Vercel)
 
-## Notes
-
-Ton:
-  Git Keeper
-
-Ming:
-  Feb
-  Tailwind
-  Next.JS
-
-Ari:
-  Monday, Wednesday, Saturday
-  Scrum
-  
-Noah:
-
-Will:
-
-Tristan:
-  Product Owner
-
-Jared:
-  Client
-  Privacy
